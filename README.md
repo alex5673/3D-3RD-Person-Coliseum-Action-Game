@@ -1,5 +1,8 @@
 # 3D-3rd-Person-Coliseum-Action-Game
-Action game based in a coliseum where the player aims to eliminate all the enemies within the coliseum. Developed in Microsoft Visual Studio 2017 in C++, with OpenGL used for Graphics.
+
+3rd year Advanced Games Technology project.
+
+C++ action/melee game based in a coliseum where the player aims to eliminate all the enemies within the coliseum. Developed in Microsoft Visual Studio, with OpenGL used for Graphics.
 
 For this game demo I wanted to create a game that would be suited towards beign a wave based game, where all the action takes place is a
 confined area (the coliseum), in which the player would see how many waves of the enemies the player could survive. Since this is a demo
