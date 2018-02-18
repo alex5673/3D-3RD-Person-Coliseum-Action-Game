@@ -1,6 +1,6 @@
 # 3D-3rd-Person-Coliseum-Action-Game
 
-3rd year Advanced Games Technology project.
+Third year Advanced Games Technology project
 
 C++ action/melee game based in a coliseum where the player aims to eliminate all the enemies within the coliseum. Developed in Microsoft Visual Studio, with OpenGL used for Graphics.
 
